@@ -4,7 +4,7 @@ import { SeriesComponent } from './series.component';
 
 @NgModule({
   imports: [
-    CommonModule
+    CommonModule,
   ],
   declarations: [SeriesComponent],
   exports: [SeriesComponent]
